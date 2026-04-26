@@ -29,4 +29,4 @@ I used Java’s built-in security libraries for hashing, the keytool utility for
 
 #### Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
-
+I could show the refactored code, the working HTTPS application, and the dependency-check report as examples of my work. These demonstrate my ability to identify vulnerabilities, apply secure coding practices, and verify security through testing. It also shows experience with real-world tools and concepts like encryption, hashing, and secure communication.
